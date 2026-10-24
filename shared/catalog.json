@@ -1,0 +1,24 @@
+{
+  "currency": "INR",
+  "tax_percent": 18,
+  "items": {
+    "chair":        { "name": "Wooden Chair",    "price": 1500 },
+    "table":        { "name": "Dining Table",     "price": 6000 },
+    "sofa":         { "name": "3-Seater Sofa",     "price": 18000 },
+    "bed":          { "name": "Queen Bed",         "price": 22000 },
+    "stool":        { "name": "Bar Stool",         "price": 1200 },
+    "bookshelf":    { "name": "Bookshelf",         "price": 4500 },
+    "wardrobe":     { "name": "Wardrobe",          "price": 15000 }
+  },
+  "aliases": {
+    "kursi": "chair",
+    "chairs": "chair",
+    "mez": "table",
+    "tables": "table",
+    "sofa set": "sofa",
+    "couch": "sofa",
+    "beds": "bed",
+    "almirah": "wardrobe",
+    "cupboard": "wardrobe"
+  }
+}

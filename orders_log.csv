@@ -1,0 +1,4 @@
+timestamp,invoice_id,channel,customer,total,status,pdf
+2026-10-24T15:18:43.257346,INV-1001,whatsapp,Dishanth,28320.0,pending,D:\omniorder\invoices\INV-1001.pdf
+2026-10-24T15:19:45.616374,INV-1002,whatsapp,Dishanth,28320.0,pending,D:\omniorder\invoices\INV-1002.pdf
+2026-10-24T16:25:13.492502,INV-1001,whatsapp,Customer,80830.0,pending,D:\omniorder\invoices\INV-1001.pdf
