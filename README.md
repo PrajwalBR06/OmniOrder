@@ -278,18 +278,7 @@ Suggested 3–5 minute video flow:
 
 ---
 
-## Submission checklist
 
-- [ ] Public GitHub repository (all code + this README)
-- [ ] At least one agent registered on Agentverse — the **Coordinator**
-- [ ] Agentverse Agent Profile URL(s)
-- [ ] ASI:One Shared Chat URL (full order → payment → confirmation)
-- [ ] Demo video (3–5 minutes)
-- [ ] Project description — problem, target users, outcomes
-
-**Prizes positioned for:** Best Multi-Agent Workflow (5-agent swarm),
-Best Agentverse Deployment, and the main rubric (Functionality 25%, Fetch.ai tech 20%,
-Innovation 20%, Real-World Impact 20%, UX 15%).
 
 ---
 
